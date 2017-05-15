@@ -1,4 +1,4 @@
-# 購物清單buylist
+# buylist
 
 一個動態的購物清單
 
